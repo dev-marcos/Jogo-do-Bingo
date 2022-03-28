@@ -8,14 +8,19 @@ Sistema de Bingo para gerar Cartelas e Pedras
 - Nenhum
 
 ## Aplicativo
-- Menu Principal
-![1](img/menu.PNG)
+- **Menu Principal**
 
-- Tela de Sortear Pedra
-![2](img/gerarPedra.PNG)
+![menu](img/menu.PNG)
 
-- Tela de Gerar Cartela
-![3](img/gerarCartela.PNG)
+
+- **Tela de Sortear Pedra**
+
+![gera-pedra](img/gerarPedra.PNG)
+
+
+- **Tela de Gerar Cartela**
+ 
+![gera-cartela](img/gerarCartela.PNG)
 
 ## Autor
 
